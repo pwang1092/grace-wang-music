@@ -14,6 +14,7 @@ const Book = () => {
                 To ensure that everyone can attend, the classes have both a payment and a nonpayment option.  </p>
                 <br></br>
                 <p>I also tutor in English, spelling, and history. I've provided one-on-one English tutoring to foreign students via zoom and tutored elementary school students in spelling and vocabulary. </p>
+                    <p>I coach debate and public speaking as well (I've competed in debate and speech for five years, and recently placed 2nd in Parliamentary and 6th in Team Policy Debate at the national tournament in Stoa, the largest homeschool debate league in the US).</p>
                 <p>I've taught over 30 students from different states. If you're looking to join one of my classes or need tutoring, feel free to contact me through the form below. </p>
                 <br></br>
                 <p>View a sample flyer from a past class <a href="https://drive.google.com/file/d/1W2r4skdEtkDPbQXs-SWeHylkTwIlbnDs/view?usp=sharing" className="linkHref">here</a> </p>
@@ -21,7 +22,7 @@ const Book = () => {
 
 
                 <h1>Piano Lessons</h1>
-                <p>I provide on-one-one private lessons and have been teaching for over one year. References available if needed. </p>
+                <p>I provide one-on-one private lessons and have been teaching for over one year. References available if needed. </p>
                 {/*<h2>Recognitions</h2>
                 <p>Second Place, Global Music Art Competition (2024) Romantic Era Division III for Brahms’ Intermezzo in A Minor.</p>
                 <p>Multiple State Honors, Branch Honors, and Convention Awards from MTAC.</p>
