@@ -13,14 +13,14 @@ const Navbar = () => {
                 <Link activeClass='active' to='intro' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Home</Link>
                 <Link activeClass='active' to='about' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">About</Link>
                 <Link activeClass='active' to='works' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Composing</Link>
-                <Link activeClass='active' to='galleryComp' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Compositions</Link>
+                <Link activeClass='active' to='gallery' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Compositions</Link>
                 <Link activeClass='active' to='people' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Piano</Link>
                 <Link activeClass='active' to='sponsors' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Cello</Link>
                 <Link activeClass='active' to='book' spy={true} smooth={true} offset={-100} duration={1000} className="desktopMenuListItem">Teaching</Link>
             </div>
             <Link activeClass='active' to='contactPage' spy={true} smooth={true} offset={-100} duration={1000}>
                 <button className = "desktopMenuBtn">
-                    <img src={contact} alt="Contact" className="desktopMenuImg"/>Contact Us
+                    <img src={contact} alt="Contact" className="desktopMenuImg"/>Contact Me
                 </button>
             </Link>
         </nav>

@@ -9,15 +9,13 @@ const Book = () => {
             <h2 className="bookTitle">Teaching</h2>
             <span className="bookBody"> 
                 <h1>Shelf Indulgence Learning Center</h1>
-                <p>During COVID-19, I started teaching literature classes for students aged 7-14 to create a community for kids aged 9-14 and foster a love for 
-literature. In the three summers in which I taught the class, I designed the curricula from scratch, creating both homework and class agendas, and assigned tasks to two other teachers. 
-Our lectures included topics such as literary techniques, poetic devices, elements of style such as the claim and evidence structure, and grammar. Through discussions and games, we brought fiction to life. 
-Through individual presentations on the book's content, our students gained public speaking confidence. My literature classes were praised by both students and parents, with most students returning each summer.  
-I always included both a payment and nonpayment option to ensure that everyone could attend. </p>
+                <p>I've taught summer literature classes for kids aged 9-14 since 2020. In all of them, I design the curriculum from scratch, creating both homework and class agendas, and hire and assign tasks to two other teachers. 
+Class presentations include topics such as literary techniques, poetic devices, elements of style such as the claim and evidence structure, and grammar. Students enjoy our discussions, games, and student-led presentations. My literature classes were praised by both students and parents, with most students returning each summer.  
+I always include both a payment and nonpayment option to ensure that everyone can attend. </p>
 <br></br>
-<p>I later expanded it into  the Shelf Indulgence Learning Center, adding tutoring in English, spelling, and history. </p>
-I provided one-on-one English tutoring to foreign students via zoom and tutored elementary school students in spelling and vocabulary. For spelling, I used the Spell to Read and Write curriculum, which students appreciated for its multi-sensory approach, as opposed to rote memorization.
-<p>So far, I've taught over 30 students from different states. If you're looking to join one of my classes or need tutoring, feel free to contact me through the form below. </p>
+<p>I also tutor in English, spelling, and history. </p>
+I provided one-on-one English tutoring to foreign students via zoom and tutored elementary school students in spelling and vocabulary. 
+<p>I've taught over 30 students from different states. If you're looking to join one of my classes or need tutoring, feel free to contact me through the form below. </p>
 <br></br>
 <p>View a sample flyer from a past class <a href="https://drive.google.com/file/d/1W2r4skdEtkDPbQXs-SWeHylkTwIlbnDs/view?usp=sharing">here</a> </p>
 <br></br>
