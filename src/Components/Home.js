@@ -13,7 +13,7 @@ const intro = () => {
                     Composer, Pianist, and Teacher
                 </span>
                 <p className="introPara"><br/>Visit my soundcloud here: <p></p> 
-                    <a href="https://soundcloud.com/gracewangcomposer">https://soundcloud.com/gracewangcomposer</a> 
+                    <a href="https://soundcloud.com/gracewangcomposer" className="linkHref">https://soundcloud.com/gracewangcomposer</a> 
                 </p>
                 <Link activeClass='active' to='about' spy={true} smooth={true} offset={-100} duration={1000}>
                     <button className="btn">

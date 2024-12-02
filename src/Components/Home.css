@@ -18,7 +18,11 @@
     max-width: 35rem;
     border-radius: 1rem;
     right: 7%;
-    border-color: 2px solid white;
+    border: 4px solid lightblue;
+}
+
+.linkHref {
+    color: lightblue;
 }
 
 .introContent {
