@@ -97,6 +97,10 @@
     cursor: pointer;
 }
 
+h4 {
+    text-decoration: underline;
+}
+
 /* stuff for mobile */
 @media screen and (max-width: 585px) {
     .worksImg {
