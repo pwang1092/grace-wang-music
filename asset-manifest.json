@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/grace-wang-music/static/css/main.ef48b2dd.css",
-    "main.js": "/grace-wang-music/static/js/main.f16e92ae.js",
+    "main.css": "/grace-wang-music/static/css/main.a348c835.css",
+    "main.js": "/grace-wang-music/static/js/main.de980e42.js",
     "static/js/453.974dda99.chunk.js": "/grace-wang-music/static/js/453.974dda99.chunk.js",
     "static/media/NGCS.wav": "/grace-wang-music/static/media/NGCS.9986129c43d4560f13d2.wav",
     "static/media/AVF.mp4": "/grace-wang-music/static/media/AVF.07be9d6d28c4e2127fad.mp4",
     "static/media/Inescapable_One.mp3": "/grace-wang-music/static/media/Inescapable_One.331dc203a55e29b9ad31.mp3",
-    "static/media/Grace_Wang_photo.jpg": "/grace-wang-music/static/media/Grace_Wang_photo.74ee96c0fed8333d3eed.jpg",
     "static/media/Forpuck.mp3": "/grace-wang-music/static/media/Forpuck.8ae8b921f616391229ef.mp3",
     "static/media/ACEC.mp3": "/grace-wang-music/static/media/ACEC.a1a4f630389294646a4b.mp3",
     "static/media/Agnes.mp3": "/grace-wang-music/static/media/Agnes.ff3e52d90139806157cf.mp3",
+    "static/media/ProfilePic.jpg": "/grace-wang-music/static/media/ProfilePic.8316b25581960b31d12c.jpg",
     "static/media/github2.png": "/grace-wang-music/static/media/github2.2b20112801f0e10cb1ff.png",
     "static/media/logo.png": "/grace-wang-music/static/media/logo.242506f0ed464f90068e.png",
     "static/media/trojans.png": "/grace-wang-music/static/media/trojans.7e71d75e2739558c9b81.png",
@@ -19,12 +19,12 @@
     "static/media/left.png": "/grace-wang-music/static/media/left.ac2bcee1edd3ae767ba7.png",
     "static/media/instagram.png": "/grace-wang-music/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/grace-wang-music/index.html",
-    "main.ef48b2dd.css.map": "/grace-wang-music/static/css/main.ef48b2dd.css.map",
-    "main.f16e92ae.js.map": "/grace-wang-music/static/js/main.f16e92ae.js.map",
+    "main.a348c835.css.map": "/grace-wang-music/static/css/main.a348c835.css.map",
+    "main.de980e42.js.map": "/grace-wang-music/static/js/main.de980e42.js.map",
     "453.974dda99.chunk.js.map": "/grace-wang-music/static/js/453.974dda99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef48b2dd.css",
-    "static/js/main.f16e92ae.js"
+    "static/css/main.a348c835.css",
+    "static/js/main.de980e42.js"
   ]
 }
