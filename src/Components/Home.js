@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import Bot from '../Images/Grace_Wang_photo.jpg';
+import Profile from '../Images/ProfilePic.jpg';
 import {Link} from 'react-scroll'; 
 
 const intro = () => {
@@ -19,7 +19,7 @@ const intro = () => {
                     </button>
                 </Link>
             </div>
-            <img src={Bot} alt="CAD" className="bg"/>
+            <img src={Profile} alt="CAD" className="bg"/>
         </section>
     )
 }
