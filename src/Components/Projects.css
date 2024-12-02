@@ -97,8 +97,12 @@
     cursor: pointer;
 }
 
-h4 {
-    text-decoration: underline;
+.title {
+    font-size: 2rem;
+}
+
+.subtitles {
+    font-size: 1.3rem;
 }
 
 /* stuff for mobile */
