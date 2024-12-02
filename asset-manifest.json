@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grace-wang-music/static/css/main.7f0a01fe.css",
-    "main.js": "/grace-wang-music/static/js/main.e6376745.js",
+    "main.css": "/grace-wang-music/static/css/main.5c4a34a0.css",
+    "main.js": "/grace-wang-music/static/js/main.c32ac82e.js",
     "static/js/453.974dda99.chunk.js": "/grace-wang-music/static/js/453.974dda99.chunk.js",
     "static/media/NGCS.wav": "/grace-wang-music/static/media/NGCS.9986129c43d4560f13d2.wav",
     "static/media/AVF.mp4": "/grace-wang-music/static/media/AVF.07be9d6d28c4e2127fad.mp4",
@@ -19,12 +19,12 @@
     "static/media/left.png": "/grace-wang-music/static/media/left.ac2bcee1edd3ae767ba7.png",
     "static/media/instagram.png": "/grace-wang-music/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/grace-wang-music/index.html",
-    "main.7f0a01fe.css.map": "/grace-wang-music/static/css/main.7f0a01fe.css.map",
-    "main.e6376745.js.map": "/grace-wang-music/static/js/main.e6376745.js.map",
+    "main.5c4a34a0.css.map": "/grace-wang-music/static/css/main.5c4a34a0.css.map",
+    "main.c32ac82e.js.map": "/grace-wang-music/static/js/main.c32ac82e.js.map",
     "453.974dda99.chunk.js.map": "/grace-wang-music/static/js/453.974dda99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f0a01fe.css",
-    "static/js/main.e6376745.js"
+    "static/css/main.5c4a34a0.css",
+    "static/js/main.c32ac82e.js"
   ]
 }
