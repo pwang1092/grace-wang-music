@@ -99,14 +99,14 @@ const Gallery = () => {
         <section id='gallery'>
             <h2 className="galleryTitle">Compositions</h2>
             <span className="galleryDesc"> 
-                <p>Agnes (2023) - Piano Solo. <a href = "https://on.soundcloud.com/qnJZMtiEtaP4UoQt6" className="linkHref">Listen on Soundcloud</a></p>
+                <p>Agnes (2023) - Piano Solo. <a href = "https://on.soundcloud.com/Kv33opayQRGppxWQA" className="linkHref">Listen on Soundcloud</a></p>
 
-                <p>A Clown’s Existential Crisis (2024) - Duet for Cello and Piano. <a href="https://on.soundcloud.com/6PoESKNsPuEqJwxS7" className="linkHref"> Listen on Soundcloud</a></p>
+                <p>A Clown’s Existential Crisis (2024) - Duet for Cello and Piano. <a href="https://on.soundcloud.com/MoxSQaDaNgsg2Lf4A" className="linkHref"> Listen on Soundcloud</a></p>
                 <p>A Variegated Farewell (2024) - String Quartet. <a href = "https://youtu.be/qa9zS2R0dpM?si=vS4QFoiFSucb49RW" className="linkHref">Listen on Youtube</a></p>
                 <p>Clouds Floating in a Moonlit Sky (2024) - Trio for Flute, Violin, and Piano. <a href = "https://youtu.be/QY7U5YOH4L0?si=qUvuocUhK0S5GpHM" className="linkHref">Listen on Youtube</a></p>
-                <p>Forpuck (2024) - Cello Solo. <a href = "https://on.soundcloud.com/fnAD4DTQtmXBiRXT8" className="linkHref">Listen on Soundcloud</a></p>
-                <p>Nothing Gold Can Stay (2024) - Movement for Piano and Voice which sets Robert Frost’s poem “Nothing Gold Can Stay” to music. <a href = "https://on.soundcloud.com/14ueKwy5TEKXAd1e7" className="linkHref">Listen on Soundcloud</a></p>
-                <p>Inescapable One (2024) - Symphony for Full Orchestra. <a href = "https://on.soundcloud.com/gugNiecbsiPYkvMC7" className="linkHref">Listen on Soundcloud</a></p>
+                <p>Forpuck (2024) - Cello Solo. <a href = "https://on.soundcloud.com/cMx9zUxxSdBPq9MD9" className="linkHref">Listen on Soundcloud</a></p>
+                <p>Nothing Gold Can Stay (2024) - Movement for Piano and Voice which sets Robert Frost’s poem “Nothing Gold Can Stay” to music. <a href = "https://on.soundcloud.com/9dKSzurzZ2T21M5k8" className="linkHref">Listen on Soundcloud</a></p>
+                <p>Inescapable One (2024) - Symphony for Full Orchestra. <a href = "https://on.soundcloud.com/LnaouAC3VM5FQuJW9" className="linkHref">Listen on Soundcloud</a></p>
 
 </span>
 

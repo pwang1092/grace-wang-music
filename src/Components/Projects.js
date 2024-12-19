@@ -9,7 +9,7 @@ const Works = () => {
         <section id='works'>
             <h2 className="worksTitle">Composing</h2>
             <span className="worksDesc"> <h1 className="title">Education</h1>
-                <p>Private Lessons with Yiming Wu (2023–Present)</p>
+                <p>Private Lessons from 2023–Present</p>
                 <br></br>
                 <h4 className="subtitles">Juilliard Summer Composition Camp (2024)</h4>
                 <p>Selected as 1 of 30 students globally for this inaugural program</p>
@@ -36,6 +36,16 @@ const Works = () => {
                 <br></br>
                 <h4 className="subtitles">Emerging Composer Award, musiCON Concert (2024)</h4>
                 <p>String quartet performed at the National Opera Center in Manhattan, NY</p>
+
+                <h4 className="subtitles"> 2nd Place,Global Music Arts Competition’s Composition Competition 2024 </h4> 
+                <p> Awarded for a flute, violin, and piano trio, competing in Division III </p>
+                <h4 className="subtitles"> 3rd Place, XII International Jean Sibelius Composition Competition 2024 </h4>
+                <p> Awarded for a string quartet and piano solo, competing in the Instrumental Music Category for students.</p>
+                <h4 className="subtitles"> Honorable Mention, Sempre Musick’s 2024 Composition Competition </h4> 
+                <p> Competed with 130+ participants from multiple countries </p> 
+                <p> Awarded for cello solo submission to the Solo and Ensemble Category</p>
+
+
 </span>
 
         </section>
